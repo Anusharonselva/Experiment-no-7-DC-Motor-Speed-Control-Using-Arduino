@@ -100,10 +100,6 @@ void loop()
 ![Screenshot (221)](https://github.com/Anusharonselva/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119405600/03af1052-0dfe-465c-b90f-0e55bdc281b3)
 
 
-### GRAPH AND TABULATION 
-
-
-
 
 ### RESULTS AND DISCUSSION 
-
+To control the speed and the direction of a DC motor using L293D driven successfully
